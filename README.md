@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/167dbc22-7ef3-4ae1-a891-3db1a772288a)
+<h1 Hi , I am Navi Gill  /h1>
 
 <h3 align="center">DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD Automation</h3>
 
