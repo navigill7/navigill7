@@ -1,4 +1,4 @@
-<h1 Hi , I am Navi Gill  /h1>
+<h1> Hi , I am Navi Gill</h1>
 
 <h3 align="center">DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD Automation</h3>
 
