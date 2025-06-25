@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Navi Gill</h1>
+![image](https://github.com/user-attachments/assets/167dbc22-7ef3-4ae1-a891-3db1a772288a)
+
 <h3 align="center">DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD Automation</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navigill7" alt="navigill7" /></a> </p>
