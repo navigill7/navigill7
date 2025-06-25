@@ -1,75 +1,78 @@
-# 👋 Hi, I'm Navinder Gill
-
-🚀 DevOps & Cloud Engineer | AWS Certified | Terraform | Docker | ECS | EKS | CI/CD | Monitoring
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate DevOps engineer with a strong focus on automating cloud infrastructure, optimizing application delivery pipelines, and improving system observability. I thrive in fast-paced environments and enjoy turning complex infrastructure challenges into scalable, maintainable solutions.
+<h1 align="center">Hi there 👋, I'm Navinder Gill</h1>
+<p align="center">DevOps & Cloud Engineer | AWS | Terraform | Kubernetes | GitHub Actions | Monitoring & Observability</p>
 
 ---
 
-## 🛠️ Skills & Tools
+🚀 **About Me**
 
-- **Cloud Platforms:** AWS (ECS, EKS, Lambda, ALB, CloudWatch, Route53, S3, IAM)
-- **Infrastructure as Code:** Terraform, CloudFormation
-- **CI/CD:** GitHub Actions, CodePipeline, CodeDeploy
-- **Containerization:** Docker, ECS Fargate, ECR, Kubernetes
-- **Monitoring & Alerting:** CloudWatch, SNS, Prometheus (beginner)
-- **Scripting:** Bash, Python
-- **OS:** Linux
+👨‍💻 I’m passionate about building reliable, scalable cloud-native infrastructure and automating everything possible.
 
----
+🔧 I recently deployed a **Strapi CMS application** using AWS ECS Fargate with full Terraform automation and optimized it with Lambda-triggered cleanups.
 
-## 📦 Featured Projects
+☸️ I'm also building secure **EKS-based infrastructure** with best practices like IRSA, private subnets, and proper IAM isolation.
 
-### 🟢 [Strapi AWS Infra Deployment](https://github.com/navigill7/Strapi)
+📈 I love automating deployment pipelines using **GitHub Actions, CodeDeploy, and Terraform Cloud**.
 
-> **Production-ready Strapi CMS on ECS with CI/CD, security, and cost optimization**
-
-- Deployed via **ECS Fargate** using Terraform
-- Secured with private subnets, ALB, and IAM roles
-- Cost-saving automation with Lambda + CloudWatch (~30% reduction)
-- Real-time alerting with CloudWatch + SNS
-- Supports Blue/Green deployment via CodeDeploy
+📫 Currently open to internships and DevOps opportunities where I can help scale infra and grow with the team.
 
 ---
 
-### 🔐 [EKS Secure Infra with Terraform](https://github.com/navigill7/EKS-TERRAFORM-SECURE-INFRA)
+🛠️ **Tech Stack & Tools**
 
-> **Enterprise-grade secure EKS cluster on AWS with complete networking and IAM policies**
-
-- Fully provisioned **EKS cluster using Terraform**
-- Uses **IRSA** (IAM Roles for Service Accounts) for fine-grained pod-level permissions
-- Deployed in **private subnets with NAT Gateway** for outbound access
-- **Node Group auto-scaling**, tagging, and role-based isolation
-- ALB + Ingress Controller + proper SG and route table association
+Linux · AWS (ECS, EKS, Lambda, Route 53) · Docker · Kubernetes · Terraform · GitHub Actions · CloudWatch · SNS · Prometheus · Bash · Python · Jenkins · CodeDeploy
 
 ---
 
-## 📫 Let's Connect!
+🎓 **Education**
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/navinder-gill-050190252/)
+Bachelor's in Computer Science  
+Relevant coursework: Cloud Computing, DevOps, Linux Systems, Infrastructure as Code
+
+---
+
+🌟 **Featured Projects**
+
+### 🚀 [Strapi CMS on ECS with Lambda Automation](https://github.com/navigill7/Strapi)
+
+- Deployed on ECS Fargate across 3 AZs (On-Demand + Spot strategy)
+- Cost optimization using **Lambda + CloudWatch** (~30% idle cost saved)
+- Full **CI/CD pipeline with GitHub Actions + Terraform Cloud**
+- Realtime alerting via CloudWatch Alarms + SNS
+- Route 53 and ALB DNS setup for public access
+
+### 🔐 [EKS Secure Infra Setup](https://github.com/navigill7/EKS-TERRAFORM-SECURE-INFRA)
+
+- Secure EKS cluster built with Terraform (IRSA, OIDC, IAM roles)
+- Multi-AZ worker node groups with auto-scaling
+- Ingress controller and ALB setup with TLS termination
+- Private subnet + NAT gateway based egress security
+
+---
+
+📦 **Other Projects**
+
+- 🔄 **Lambda ECS Cleanup** — Python Lambda to clean up stale ECS resources (stopped tasks, ENIs, unused services)
+- 🔄 **SNS-Based Alerting** — CloudWatch alarms triggering real-time email alerts
+- 🛠️ **Dockerized Projects** — Multiple backend stacks deployed using custom Docker + ECS workflows
+
+---
+
+📈 **GitHub Analytics**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navigill7&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=navigill7&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+📫 **Connect With Me**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/navinder-gill-050190252/)
 - 💻 [GitHub](https://github.com/navigill7)
 - 📄 [Resume](https://drive.google.com/file/d/1kRGaCpamEgNEDcPyOrdieqCcTL-38aZd/view?usp=sharing)
+- 📧 navindergill808@gmail.com
 
 ---
 
-> "Automate everything that can be automated — and then document the rest."  
-> — Me (and probably every DevOps engineer ever)
-
-<!--
-**navigill7/navigill7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "If it’s not automated, it’s technical debt."
