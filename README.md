@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navigill7" alt="navigill7" /></a> </p>
 
-- 🔭 I’m currently working on [Strapi](https://github.com/navigill7/EKS-TERRAFORM-SECURE-INFRA)
+- 🔭 I’m currently working on [UniLink](https://github.com/navigill7/EKS-TERRAFORM-SECURE-INFRA)
 
 - 🌱 I’m currently learning **Advanced Terraform Modules, Kubernetes on AWS (EKS), and Deployment Strategies like Blue/Green & Canary**
 
